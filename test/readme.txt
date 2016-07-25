@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 You need press insert?
 Is this still there?
+Now I am creating a new branch.
