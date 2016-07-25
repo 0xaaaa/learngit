@@ -6,3 +6,4 @@ Git tracks changes of files.
 You need press insert?
 Is this still there?
 Now I am creating a new branch.
+creating a new branch is quick and simple.
